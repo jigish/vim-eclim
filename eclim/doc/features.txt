@@ -5,8 +5,8 @@ Features
 
 The following is a partial list of eclim features with much more still
 to come.  For more details please see the detailed documentation
-(|vim-index|).  For a more comprehensive list you can also visit the
-cheatsheet (|cheatsheet|).
+(vim-index).  For a more comprehensive list you can also visit the
+cheatsheet (cheatsheet).
 
 
 Eclipse Projects
@@ -117,7 +117,7 @@ Xml / Dtd / Xsd
 ===============
 
 - Automatic validation (w/ visual marking of errors and warnings).
-- Quickly look up element definition from the current xml file's dtd
+- Quickly look up element definition from the current xml file’s dtd
   or xsd.
 - Context sensitive code completion.
 
@@ -126,6 +126,6 @@ Common Vim Functionality
 
 - Commands to locate a project, workspace, or current file relative
   file and open it (split, edit, or tabnew).
-- Much more...
+- Much more…
 
 vim:ft=eclimhelp
